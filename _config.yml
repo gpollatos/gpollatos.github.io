@@ -1,0 +1,7 @@
+# Site settings
+title: jabcast
+baseurl: "/"
+url: "http://jabcast.io"
+
+# Build settings
+markdown: kramdown
